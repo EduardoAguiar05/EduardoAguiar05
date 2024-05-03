@@ -6,6 +6,6 @@
 
 <div>
   <a href="https://github.com/EduardoAguiar05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AiltonMazullo&show_icons=true&theme=cobalt"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiltonMazullo&layout=compact&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoAguiar05o&show_icons=true&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAguiar05&layout=compact&theme=cobalt"/>
 </div>
